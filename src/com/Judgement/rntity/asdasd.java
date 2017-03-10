@@ -3,9 +3,7 @@ package com.Judgement.rntity;
 /**
  * @author ShanJZ
  * @Description
- * @time 2017/3/10 16:00
+ * @time 2017/3/10 16:01
  */
-public class asd {
-    int a;
-    int b;
+public class asdasd {
 }
